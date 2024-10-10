@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am passionate about leveraging technology to sol
 - 🌱 **Learning:** [New Technologies/Skills]
 - 🤝 **Collaboration:** Open to collaborating on innovative projects and contributing to open-source initiatives.
 - 💬 **Ask Me About:** [Your Areas of Expertise]
-- 📫 **Contact:** [Your Email] | [LinkedIn Profile]
+- 📫 **Contact:** [akramkamoga17@gmail.com] | [www.linkedin.com/in/akram-kamoga]
 - 🎨 **Fun Fact:** [A Fun Fact About You]
 
 ## 💻 Skills
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I am passionate about leveraging technology to sol
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
-![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react) <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>  <img src=' https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white'>
 
 ## 🌐 Let's Connect
 
