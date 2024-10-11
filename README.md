@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am passionate about leveraging technology to sol
 
 - 🌱 **Learning:** JAVASCRIPT,PYTHON.HTML
 - 🤝 **Collaboration:** Open to collaborating on innovative projects and contributing to open-source initiatives.
-- 💬 **Ask Me About:** [Your Areas of Expertise]
+- 💬 **Ask Me About:** [HTML.JAVASCRIPT.PYTHON]
 - 📫 **Contact:** [akramkamoga17@gmail.com] | [www.linkedin.com/in/akram-kamoga]
 - 🎨 **Fun Fact:** [A Fun Fact About You]
 
