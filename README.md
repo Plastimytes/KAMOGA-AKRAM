@@ -21,11 +21,6 @@ Welcome to my GitHub profile! I am passionate about leveraging technology to sol
 | Python         | Node.js          | Docker         |
 | Java           | Django           | VSCode         |
 
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
