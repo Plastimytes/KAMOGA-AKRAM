@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I am passionate about leveraging technology to sol
 | Java           | Django           | VSCode         |
 
 ## 🛠️ Technologies & Tools
-
+![GitHub Streak](https://streak-stats.demolab.com?user=KomoireAshiraf&theme=radical
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
 ![React](https://img.shields.io/badge/React-black?style=flat&logo=react) 
