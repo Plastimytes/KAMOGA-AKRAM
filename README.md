@@ -32,6 +32,6 @@ Feel free to reach out and connect! I'm always eager to meet fellow developers a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/akram-kamoga)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](your-twitter-url)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=KAMOGA-AKRAM&theme=transparent) 
 ---
 Thank you for visiting my profile! 🌟
