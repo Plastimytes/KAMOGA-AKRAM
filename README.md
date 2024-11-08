@@ -1,12 +1,10 @@
-# Hello! I'm [KAMOGA AKRAM] 👋
+# Hello! I'm KAMOGA AKRAM 👋
 
 **Software Developer  Tech Enthusiast**
 
 Welcome to my GitHub profile! I am passionate about leveraging technology to solve real-world problems and continuously improving my skills in software development.
 
 ## 🚀 About Me
-
-
 - 🌱 **Learning:** JAVASCRIPT,PYTHON.HTML
 - 🤝 **Collaboration:** Open to collaborating on innovative projects and contributing to open-source initiatives.
 - 💬 **Ask Me About:** [HTML.JAVASCRIPT.PYTHON]
@@ -36,5 +34,4 @@ Feel free to reach out and connect! I'm always eager to meet fellow developers a
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](your-twitter-url)
 
 ---
-![GitHub Streak](https://streak-stats.demolab.com?user=KAMOGA-AKRAM&theme=radical
 Thank you for visiting my profile! 🌟
